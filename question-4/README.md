@@ -5,7 +5,8 @@ Create a SQL query that returns the username, full name (Last Name, First Name) 
 - Each user should appear once in the result set
 - Remember to include the user who has never logged in.
 - The SQL below is designed and tested using MySQL.
-- Save your answer in a file named logins.sql.
+- Save your answer in a file named logins.sql
+- Add and commit your file
 - This question is open book/open internet
 
 
