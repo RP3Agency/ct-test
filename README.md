@@ -1,4 +1,4 @@
-# ct-test
+# RP3 Creative Technology Test
 
 Our Creative Technology test consists of 8 questions that test candidates on various aspects on Creative Technology. Candidates should at least attempt all 8 questions. Portions of the test are open book/open internet.
 
