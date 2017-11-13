@@ -9,4 +9,5 @@ Our Creative Technology test consists of 7 questions that test candidates on var
 - Go through all 7 questions IN ORDER
 - Complete each question as best as you can and then commit your answer and move on to the next
 - Each question folder has a README that includes the question along with further instructions
+- Any files created should be added to the corresponding question folder
 - When you are finished with the test push your branch
