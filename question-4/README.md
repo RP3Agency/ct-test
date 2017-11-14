@@ -10,7 +10,7 @@ Create a SQL query that returns the username, full name (Last Name, First Name) 
 - This question is open book/open internet
 
 
-`CREATE TABLE users (
+```CREATE TABLE users (
 	username VARCHAR(32) NOT NULL,
 	password VARCHAR(32) NOT NULL,
 	first_name VARCHAR(255) NOT NULL,
@@ -35,4 +35,4 @@ Create a SQL query that returns the username, full name (Last Name, First Name) 
 	('bob','2011-01-12 13:42:15'),
 	('jane','2011-01-02 08:42:15'),
 	('matt','2011-01-13 09:42:15'),
-	('jane','2011-01-14 12:42:15');``
+	('jane','2011-01-14 12:42:15');```

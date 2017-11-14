@@ -1,8 +1,8 @@
 # Question 6
 
-Using either PHP5, Java or C#, create a class that converts between Centigrade and Fahrenheit
+Using JavaScript, create an object that converts between Centigrade and Fahrenheit.
 
-- The class should have getters and setters for each value (implemented appropriately in the language you are using)
+- The object should have getters and setters for each value
 - When one value is set, it should update the other value
 - Name your class TemperatureConverter and save your code in a file appropriately named for the language you are using
 - Add and commit your file
@@ -11,7 +11,7 @@ Using either PHP5, Java or C#, create a class that converts between Centigrade a
 
 ## Extra Credit
 
-Create an analogous object in JavaScript that models the same behavior
+Create an analogous class in a backend language of your choice that models the same behavior.
 
-- Save your code in a file called TemperatureConverter.js
+- Name the file appropriately to the language you used
 - Add and commit your file

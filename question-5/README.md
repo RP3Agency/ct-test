@@ -8,5 +8,7 @@ Using the clay provided create an object that can plug and pass through the boar
 - The triangle has a base and height of one unit
 - The circle has a diameter of one unit
 - When you are finished create a file titled SHAPE.md
-- In SHAPE.md create a header for each of the holes your shape can pass through (DO NOT DESTROY YOUR CLAY SHAPE)
+- In SHAPE.md create a header for each of the holes your shape can pass through
 - Add and commit your file
+
+*DO NOT DESTROY YOUR CLAY SHAPE!!!*
